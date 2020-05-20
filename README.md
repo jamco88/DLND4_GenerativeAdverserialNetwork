@@ -1,7 +1,5 @@
 # GAN
 
-PLACEHOLDER - TO BE REWRITTEN ON COMPLETION OF THE PROJECT
-
 Project for Generative Adverserial Networks
 
 
