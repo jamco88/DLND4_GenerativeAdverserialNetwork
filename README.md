@@ -5,7 +5,7 @@ Project for Generative Adversarial Networks
 
 ## Environment Setup
 
-I ahve assumed you are using Anaconda.
+I have assumed you are using Anaconda.
 
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
