@@ -1,6 +1,6 @@
 # GAN
 
-Project for Generative Adverserial Networks
+Project for Generative Adversarial Networks
 
 
 ## Environment Setup
